@@ -1,0 +1,17 @@
+{
+  "name": "MobileReact",
+  "displayName": "MobileReact",
+  "expo": {
+    "name": "MobileReact",
+    "slug": "MobileReact",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
